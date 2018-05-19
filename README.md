@@ -2,6 +2,8 @@
 About the organization itself.
 Visit the **[/Meta/wiki](https://github.com/texstremists/Meta/wiki)** pages to know more.
 
+[![GitHub license](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/texstremists/Meta/blob/master/LICENSE)
+
 ## What goes here?
 
 Everything which is related to how other repositories of this organization are handled. These include:
